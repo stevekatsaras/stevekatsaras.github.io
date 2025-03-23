@@ -4,6 +4,7 @@ icon: "/assets/img/briefcase.svg"
 contents:
   - title: DXC Technology
     role: Senior Software Engineering Manager
+    website: https://dxc.com/us/en
     description:
       - Led development of a new chatbot software utilizing large language model
       - Co-designer of '*Kopilot*' and '*Gemmini*'

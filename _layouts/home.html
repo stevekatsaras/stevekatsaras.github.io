@@ -116,8 +116,13 @@
                       </span>
                     {% endif %}
                   </div>
+									{% if member.website %}
+										<div>
+											{{ member.website | markdownify }}
+										</div>
+									{% endif %}
                   {% for item in member %}
-                    {% if item[0] != "title" and item[0] != "date" %}
+                    {% if item[0] != "title" and item[0] != "date" and item[0] != "website" %}
                       {% if item[1].first %}
                         <ul>
                           {% for subitem in item[1] %}
