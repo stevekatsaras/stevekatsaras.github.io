@@ -124,7 +124,7 @@
 										</div>
 									{% endif %}
 									{% if member.role %}
-										<div>{{ member.role | markdownify }}</div>
+										<div class="role">{{ member.role | markdownify }}</div>
 									{% endif %}
                   {% for item in member %}
                     {% if item[0] == "description" %}
