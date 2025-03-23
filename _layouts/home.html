@@ -118,7 +118,9 @@
                   </div>
 									{% if member.website %}
 										<div>
-											{{ member.website | markdownify }}
+											<a href="{{ member.website }}" target="_blank">
+												{{ member.website | markdownify }}
+											</a>
 										</div>
 									{% endif %}
                   {% for item in member %}
