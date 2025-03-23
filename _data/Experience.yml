@@ -17,6 +17,7 @@ contents:
       - Enhanced internal pipelines to query real-time data from client devices
     date: Aug. 2019 - Nov. 2021
   - title: Telstra
+    website: https://www.telstra.com.au
     role: Software Engineering Manager
     description: 
       - Designed the dynamic website using React for data visualization
