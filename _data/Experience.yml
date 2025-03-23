@@ -2,14 +2,15 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: DXC Technology
-    role: Senior Software Engineering Manager
+  - title: DXC Technology (Melbourne, Australia)
     website: https://dxc.com/us/en
+    role: Senior Software Engineering Manager
     description:
       - Led development of a new chatbot software utilizing large language model
       - Co-designer of '*Kopilot*' and '*Gemmini*'
     date: Nov. 2021 - Current
-  - title: Yarra Valley Water
+  - title: Yarra Valley Water (Melbourne, Australia)
+    website: https://www.yvw.com.au
     role: Technical Lead
     description: 
       - Built a Java microservice, database schema to manage customer accounts
