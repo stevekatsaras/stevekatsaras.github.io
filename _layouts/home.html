@@ -131,15 +131,9 @@
 								{% endif %}
 								<ul>
 									{% for desc in member.description %}
-										{% if desc.project %}
-											<li class="subitem">
-												<b>Project - </b> {{ desc.project | markdownify }}
-											</li>
-										{% else %}
-											<li class="subitem">
-												{{ desc | markdownify }}
-											</li>
-										{% endif %}
+										<li class="subitem">
+											blah: {{ desc | markdownify }}
+										</li>
 									{% endfor %}
 								</ul>
               </li>
