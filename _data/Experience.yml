@@ -19,75 +19,67 @@ contents:
           - five
       - Co-designer of '*Kopilot*' and '*Gemmini*'
     date: Nov. 2021 - Current
-  - title: Yarra Valley Water (Melbourne, Australia)
-    website: https://www.yvw.com.au
+  - title: "Yarra Valley Water ([https://www.yvw.com.au](https://www.yvw.com.au){:target='_blank'})"
     role: Technical Lead
     description: 
       - Built a Java microservice, database schema to manage customer accounts
       - Enhanced internal pipelines to query real-time data from client devices
     date: Aug. 2019 - Nov. 2021
-  - title: Telstra (Melbourne, Australia)
-    website: https://www.telstra.com.au
+  - title: "Telstra ([https://www.telstra.com.au](https://www.telstra.com.au){:target='_blank'})"
     role: Software Engineering Manager
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: May. 2018 - Apr. 2019
-  - title: SecurePay (Melbourne, Australia)
-    website: https://www.securepay.com.au
+  - title: "SecurePay ([https://www.securepay.com.au](https://www.securepay.com.au){:target='_blank'})"
     role: Software Engineering Manager
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: Aug. 2011 - May. 2018
-  - title: Victorian Institute of Forensic Medicine (Melbourne, Australia)
-    website: https://www.vifm.org
+  - title: "Victorian Institute of Forensic Medicine ([https://www.vifm.org](https://www.vifm.org){:target='_blank'})"
     role: Senior Software Developer
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: May. 2009 - Aug. 2011
-  - title: Hyro Limited (Melbourne, Australia)
+  - title: "Hyro Limited"
     role: Senior Software Consultant
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: May. 2007 - Jun. 2008
-  - title: Intelematics (Melbourne, Australia)
-    website: https://www.intelematics.com
+  - title: "Intelematics ([https://www.intelematics.com](https://www.intelematics.com){:target='_blank'})"
     role: Senior Software Developer
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: Oct. 2006 - May. 2007
-  - title: St. John Ambulance (Melbourne, Australia)
-    website: https://www.stjohn.org.au
+  - title: "St. John Ambulance ([https://www.stjohn.org.au](https://www.stjohn.org.au){:target='_blank'})"
     role: Senior Software Developer
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: Oct. 2005 - Sep. 2006
-  - title: POLi Payments (Melbourne, Australia)
-    website: https://www.polipay.co.nz
+  - title: "POLi Payments ([https://www.polipay.co.nz](https://www.polipay.co.nz){:target='_blank'})"
     role: Software Developer
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: Sep. 2004 - Sep. 2005
-  - title: Architectural Glass & Metal Association (Philadelphia, USA)
-    website: https://agma.glass
+  - title: "Architectural Glass & Metal Association ([https://agma.glass](https://agma.glass){:target='_blank'})"
     role: Software Developer
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: Nov. 2004 - May. 2005
-  - title: Avaska (Melbourne, Australia)
+  - title: "Avaska"
     role: Software Developer
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
     date: Nov. 2002 - Aug. 2004
-  - title: Websoft (Melbourne, Australia)
+  - title: "Websoft"
     role: Software Developer
     description: 
       - Designed the dynamic website using React for data visualization
