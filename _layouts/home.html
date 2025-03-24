@@ -113,11 +113,11 @@
                 <div class="content-header">
 									<div>
 										{% if member.website %}
-											<span style="color: #4082c9">
-												<a href="{{ member.website }}" target="_blank">
+											<a href="{{ member.website }}" target="_blank">
+												<span style="color: #4082c9">
 													{{ member.title | markdownify }}
-												</a>	
-											</span>
+												</span>
+											</a>	
 										{% else %}
 											{{ member.title | markdownify }}
 										{% endif %}
