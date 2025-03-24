@@ -8,6 +8,7 @@ contents:
     description:
       - Led development of a new chatbot software utilizing large language model
       - project: "Project: nabtrade (National Australia Bank)"
+        url: https://www.nabtrade.com.au
         tasks: 
           - one
           - two
