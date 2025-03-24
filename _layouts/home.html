@@ -112,12 +112,11 @@
               <li class="item">
                 <div class="content-header">
 									<div>
+										<span>{{ member.title | markdownify }}</span>
 										{% if member.website %}
-											<a href="{{ member.website }}" target="_blank" style="color: red;">
+											<a href="{{ member.website }}" target="_blank">
 												{{ member.title | markdownify }}
 											</a>	
-										{% else %}
-											{{ member.title | markdownify }}
 										{% endif %}
 									</div>
 									{% if member.date %}

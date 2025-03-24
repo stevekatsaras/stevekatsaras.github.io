@@ -2,8 +2,8 @@ subject: Experiences
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: DXC Technology (Melbourne, Australia)
-    website: https://dxc.com/us/en
+  - title: DXC Technology
+    website: dxc.com
     role: Senior Software Engineering Manager
     description:
       - Led development of a new chatbot software utilizing large language model
