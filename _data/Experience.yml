@@ -2,7 +2,7 @@ subject: Experiences
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: "DXC Technology ([https://dxc.com](https://dxc.com))"
+  - title: "DXC Technology ([https://dxc.com](https://dxc.com){:target='_blank'})"
     role: Senior Software Engineering Manager
     description:
       - Led development of a new chatbot software utilizing large language model
