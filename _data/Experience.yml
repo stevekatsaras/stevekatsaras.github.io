@@ -7,6 +7,11 @@ contents:
     role: Senior Software Engineering Manager
     description:
       - Led development of a new chatbot software utilizing large language model
+      - project: nabtrade
+        tasks: 
+          - one
+          - two
+          - three
       - Co-designer of '*Kopilot*' and '*Gemmini*'
     date: Nov. 2021 - Current
   - title: Yarra Valley Water (Melbourne, Australia)

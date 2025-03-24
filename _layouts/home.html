@@ -129,17 +129,24 @@
 									{% if member.role %}
 										<div class="role">{{ member.role | markdownify }}</div>
 									{% endif %}
-                  {% for item in member %}
-                    {% if item[0] == "description" %}
-											<ul>
-												{% for subitem in item[1] %}
-												<li class="subitem">
-													{{ subitem | markdownify }}
-												</li>
-												{% endfor %}
-											</ul>
-                    {% endif %}
-                  {% endfor %}
+									{% for desc in member.description %}
+										<ul>
+											<li>
+												{% if desc.project %}
+													<div>Project: {{ desc.project | markdownify }}</div>
+													<ul>
+														{% for item in desc.project.tasks %}
+															<li>
+																{{ item | markdownify }}
+															</li>
+														{% endfor %}
+													</ul>
+												{% else %}
+													{{ desc | markdownify }}
+												{% endif %}
+											</li>
+										</ul>
+									{% endfor %}
               </li>
               {% endfor %}
           </ul>
