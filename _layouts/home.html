@@ -114,9 +114,7 @@
 									<div>
 										{% if member.website %}
 											<a href="{{ member.website }}" target="_blank">
-												<span style="color: #4082c9">
-													{{ member.title | markdownify }}
-												</span>
+												{{ member.title | markdownify }}
 											</a>	
 										{% else %}
 											{{ member.title | markdownify }}
