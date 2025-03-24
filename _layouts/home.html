@@ -132,7 +132,11 @@
 								<ul>
 									{% for desc in member.description %}
 										<li class="subitem">
-											<span style="color: red;">blah:</span><span>{{ desc | markdownify }}</span>
+											{% if desc.project %}
+												{{ desc.project | markdownify }}
+											{% else %}
+												{{ desc | markdownify }}
+											{% endif %}
 										</li>
 									{% endfor %}
 								</ul>
