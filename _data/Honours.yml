@@ -2,7 +2,6 @@ subject: Honours
 listing-order: 5
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: "Golden Key International Honour Society"
-    website: https://www.goldenkey.org
+  - title: "Golden Key International Honour Society ([https://www.goldenkey.org](https://www.goldenkey.org){:target='_blank'})"
     description: Achievements in academic excellence.
     date: Feb. 1999
