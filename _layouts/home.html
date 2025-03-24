@@ -111,11 +111,13 @@
             {% for member in subject.contents %}
               <li class="item">
                 <div class="content-header">
-									<div style="color: #4082c9">
+									<div>
 										{% if member.website %}
-											<a href="{{ member.website }}" target="_blank">
-												{{ member.title | markdownify }}
-											</a>
+											<span style="color: #4082c9">
+												<a href="{{ member.website }}" target="_blank">
+													{{ member.title | markdownify }}
+												</a>	
+											</span>
 										{% else %}
 											{{ member.title | markdownify }}
 										{% endif %}
