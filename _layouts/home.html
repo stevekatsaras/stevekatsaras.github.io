@@ -134,7 +134,7 @@
 										<li class="subitem">
 											{% if desc.project %}
 												{{ desc.project | markdownify }}
-													<ul>
+													<ul style="margin-bottom: 0;">
 														{% for task in desc.tasks %}
 															<li class="subitem">
 																{{ task | markdownify}}
