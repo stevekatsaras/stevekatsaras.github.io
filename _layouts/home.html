@@ -129,13 +129,6 @@
 										<li class="subitem">
 											{% if desc.project %}
 												{{ desc.project | markdownify }}
-												{% if desc.url %}
-													<span style="margin-top: -10px;">
-														<a href="{{ desc.url }}" target="_blank">
-															{{ desc.url | markdownify }}
-														</a>
-													</span>
-												{% endif %}
 												<ul style="margin-bottom: 0;">
 													{% for task in desc.tasks %}
 														<li class="subitem">

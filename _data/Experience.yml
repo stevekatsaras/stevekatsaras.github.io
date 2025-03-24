@@ -6,8 +6,7 @@ contents:
     role: Senior Software Engineering Manager
     description:
       - Led development of a new chatbot software utilizing large language model
-      - project: "Project: nabtrade (National Australia Bank)"
-        url: https://www.nabtrade.com.au
+      - project: "Project: NABTrade ([https://www.nabtrade.com.au](https://www.nabtrade.com.au){:target='_blank'})"
         tasks: 
           - one
           - two
